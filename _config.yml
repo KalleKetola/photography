@@ -5,9 +5,21 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Kalle"
-subtitle: "See the world through my eyes!"
-author: "Kalle"
+title: Hei
+subtitle: 
+author: 
 header:
- title: "Photography"
- subtitle: "by me"
+ title: 
+ subtitle: "
+footer:
+ name: 
+ bio: 
+ github: 
+web_design: 
+social_urls:
+  facebook: 
+  twitter: 
+  instagram: 
+  dribbble: 
+  linkedin: 
+  github: 
