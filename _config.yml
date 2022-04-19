@@ -5,20 +5,20 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Kalle"
-subtitle: "Näe"
-author: "Kalle"
+title: "Kalle Ketola"
+subtitle: "Valoa ja kuvia"
+author: "Kalle Ketola"
 header:
  title: "Photography"
  subtitle: "Kalle"
 footer:
- name: "Hei"
- bio: "Hei"
+ name: "Kalle Ketola"
+ bio: "Lost in Finland"
  github: ""
  
 web_design: ""
 social_urls:
  
-  instagram: "https://www.instagram.com/ram_patra"
+  instagram: "https://www.instagram.com/winterbridgevalley/"
 
-  github: "https://www.github.com/rampatra"
+  github: "https://www.github.com/koodikulis
