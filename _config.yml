@@ -12,7 +12,7 @@ header:
  title: "Valokuvia"
  subtitle: "Kalle Ketola"
 footer:
- name: "Hey there, my name is Ram"
+ # name: "Hei olen Kalle"
  bio: "Lost in Finland."
 social_urls:
   
