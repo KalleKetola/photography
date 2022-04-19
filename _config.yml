@@ -1,20 +1,25 @@
 # Base configs
-baseurl: "http://koodikulis.github.io/photography"
+baseurl: "https://koodikulis.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Valokuvia Kalle Ketola"
-subtitle: "Valoa ja kuvia"
-author: "Kalle Ketola"
+title: "Photography by Kalle"
+subtitle: "Näe"
+author: "Kalle"
 header:
- title: "Valokuvia"
- subtitle: "Kalle Ketola"
+ title: "Photography"
+ subtitle: "Kalle"
 footer:
- # name: "Hei olen Kalle"
- bio: "Lost in Finland."
+ name: "Hei"
+ bio: "Hei"
+ github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+web_design: "AJ"
 social_urls:
-  
-  instagram: "https://www.instagram.com/winterbridgevalley/"
-  github: "https://www.github.com/koodikulis"
+  facebook: "https://www.facebook.com/ramswaroop"
+  twitter: "https://www.twitter.com/ram__patra"
+  instagram: "https://www.instagram.com/ram_patra"
+  dribbble: "https://dribbble.com/rampatra"
+  linkedin: "https://in.linkedin.com/in/ram-patra"
+  github: "https://www.github.com/rampatra"
