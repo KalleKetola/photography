@@ -2,6 +2,13 @@
 baseurl: "https://koodikulis.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
+image_fulls_loc_air: "/images/airfull"
+image_thumbs_loc_air: "/images/airthumb"
+image_fulls_loc_land: "/images/landfull"
+image_thumbs_loc_land: "/images/landthumb"
+image_fulls_loc_livingthings: "/images/livingthings"
+image_thumbs_loc_livingthing: "/images/livingthumbs"
+
 
 # UI configs
 title: "Kalle Ketola"
