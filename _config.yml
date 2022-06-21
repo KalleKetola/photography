@@ -7,7 +7,7 @@ image_thumbs_loc_air: "/images/airthumb"
 image_fulls_loc_land: "/images/landfull"
 image_thumbs_loc_land: "/images/landthumb"
 image_fulls_loc_livingthings: "/images/livingthings"
-image_thumbs_loc_livingthing: "/images/livingthumbs"
+image_thumbs_loc_livingthing: "/images/livingthumb"
 
 
 # UI configs
